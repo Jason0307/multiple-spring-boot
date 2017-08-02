@@ -14,8 +14,8 @@
 	<modules>
 		<module>spring-boot-one</module>
 		<module>spring-boot-two</module>
-		<module>bootapp</module>
 		<module>spring-boot-three</module>
+                <module>bootapp</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
